@@ -1,4 +1,6 @@
-## Skills
+## Hi, I'm @shgishzk
+
+👷‍♂️ Built to Endure.
 
 [![Generic badge](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)](https://github.com/shgishzk) [![Generic badge](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=nuxt-dot-js)](https://github.com/shgishzk) 
 [![Generic badge](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node-dot-js)](https://github.com/shgishzk) 
